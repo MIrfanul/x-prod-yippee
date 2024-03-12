@@ -1,0 +1,32 @@
+{
+	"name": "x-prod-yippee",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"9Y4MxypofTgwe4Vgc6zIi0:KqSaLEqOZJQN1fXLnJzN4hG40cZMubTvlX0XG0BjPDfAbHv\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mirfanul/x-prod-yippee.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "mirfanul",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1",
+		"x-fare-barring": "^1.0.0",
+		"x-broil-gadzooks": "^1.0.0",
+		"x-usually-longingly": "^1.0.0",
+		"x-despite-cruelly": "^1.0.0",
+		"x-cheery-messenger": "^1.0.0",
+		"x-fondue-indolent": "^1.0.0",
+		"x-worse-clearly": "^1.0.0",
+		"x-numeric-police": "^1.0.0",
+		"x-amend-beyond": "^1.0.0"
+	}
+}
